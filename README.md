@@ -1,6 +1,6 @@
 # Ochi Design Agency Website
 
-[text](https://ochi-design-raqib.netlify.app)
+[Deployed Link](https://ochi-design-raqib.netlify.app)
 
 ## 📋 Overview
 
