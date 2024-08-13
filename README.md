@@ -1,5 +1,7 @@
 # Ochi Design Agency Website
 
+[text](https://ochi-design-raqib.netlify.app)
+
 ## 📋 Overview
 
 This project is a web application inspired by the award-winning Ochi Design Agency website, known for its stunning animations and innovative design. The site is designed to showcase the creative and aesthetic potential of web technologies, offering users an engaging and visually captivating experience.
